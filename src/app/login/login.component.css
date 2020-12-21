@@ -1,0 +1,30 @@
+#loginBlock{
+    background-color: red;
+    background-image: url('../../assets/images/loginBackground.png');
+    width: 100%;
+    height: 700px;
+}
+
+#titleBlock{
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    top: 270px;
+    margin-left: 50px;
+}
+
+button {
+    margin-left: -8px;
+    background-color: #3237da;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    top: 340px;
+    left: 60px;
+    vertical-align: middle;
+    position: absolute;
+}
